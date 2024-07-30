@@ -1,6 +1,6 @@
 # bdc_hw1
 
-A new Flutter project.
+A new Flutter simple project.
 
 ## Getting Started
 
